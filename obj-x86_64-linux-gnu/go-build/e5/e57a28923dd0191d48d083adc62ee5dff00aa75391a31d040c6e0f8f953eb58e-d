@@ -1,0 +1,9 @@
+./benchmark_test.go
+./bootstrap_test.go
+./checkers_test.go
+./fixture_test.go
+./foundation_test.go
+./gocheck_test.go
+./helpers_test.go
+./printer_test.go
+./run_test.go

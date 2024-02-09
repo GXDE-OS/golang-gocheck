@@ -1,0 +1,12 @@
+golang-gocheck (0.0~bzr20131118+85-2) unstable; urgency=medium
+
+  * Patching fixture_test.go with expected panic msg for Go 1.2
+    (Closes: #733440)
+
+ -- Sergio Schvezov <sergio.schvezov@canonical.com>  Mon, 30 Dec 2013 14:02:10 -0300
+
+golang-gocheck (0.0~bzr20131118+85-1) unstable; urgency=low
+
+  * Initial release (Closes: #729984)
+
+ -- Sergio Schvezov <sergio.schvezov@canonical.com>  Mon, 18 Nov 2013 15:53:14 -0300

@@ -1,0 +1,7 @@
+./benchmark.go
+./checkers.go
+./gocheck.go
+./helpers.go
+./printer.go
+./run.go
+./export_test.go
